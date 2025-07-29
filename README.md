@@ -3,7 +3,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi! I'm YOOZI :) </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 데이터를 기반으로 솔루션을 제시하는 개발자가 되기 위해 공부하고 있습니다. </li><br>#머신러닝엔지니어 #데이터분석가</li><br><li> 이전 경력: 브랜드 디자이너 4년차</li></li></li><br><br>I am studying to become a developer who presents solutions based on data. </li><br>#MachineLearningEngineer #DataAnalist</li><br><li> Previous career: 4 years of brand designer </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 데이터로 사용자의 마음을 읽고,
+AI로 새로운 가치를 창조합니다. <li> 이전 경력: 브랜드 디자이너 4년차</li></li></li><br><br>I am studying to become a developer who presents solutions based on data. </li><br>#MachineLearningEngineer #DataAnalist</li><br><li> Previous career: 4 years of brand designer </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
